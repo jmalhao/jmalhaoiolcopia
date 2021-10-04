@@ -43,14 +43,8 @@
       "description": "",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vbiwVXu7NvI6cwLGKXiAFUTcJ20UWW12Ug&usqp=CAU",
       "price": 250
-    },
-    {
-      "id": 6,
-      "name": "Rubik's Cube",
-      "description": "",
-      "imageUrl": "https://p.kindpng.com/picc/s/572-5723367_heart-pizza-clipart-png-image-library-download-pizza.png",
-      "price": 299
     }
+   
   ],
   "wishlist": [],
   "cart": [],
