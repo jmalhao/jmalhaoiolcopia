@@ -13,26 +13,5 @@
       "description": "",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIDp1kgeyp92BhYpa5hRucw1C6lvgSZYTSlwFpX1Kjg4DgFzi9B6tAJ4Up0FSbzhO80U&usqp=CAU",
       "price": 399
-    },
-    {
-      "id": 3,
-      "name": "Rubik's Cube",
-      "description": "",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3--lymjYSEva2UH5gP_6-jHH8a7blhJEgdjLQZVrGnTNfmYy6MR43EN1M5emm9dL0Bc&usqp=CAU",
-      "price": 150
-    },
-    {
-      "id": 4,
-      "name": "Rubik's Cube",
-      "description": "",
-      "imageUrl": "https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Fast-Food-PNG-Clipart/Pizza_PNG_Clipart_Image.png?m=1435200901",
-      "price": 200
-    },
-    {
-      "id": 5,
-      "name": "Rubik's Cube",
-      "description": "",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5vbiwVXu7NvI6cwLGKXiAFUTcJ20UWW12Ug&usqp=CAU",
-      "price": 250
     }
   ]
